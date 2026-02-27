@@ -1,14 +1,14 @@
 {
-  "name": "Premier Beta", 
-  "biography": "Experienced party leader who rose from humble origins through cunning and political skill. Known for unpredictable behavior that keeps adversaries guessing. Combines pragmatic peasant wisdom with ideological fervor. Has staked reputation on challenging the established international order and proving his state's equality with rival powers. Prone to dramatic gestures but ultimately calculating.",
-  "traits": ["unpredictable", "cunning", "dramatic", "pragmatic", "ambitious"],
-  "decision_style": "intuitive_with_bravado", 
-  "nuclear_doctrine": "massive_retaliation_threat",
-  "risk_tolerance": "high",
-  "primary_concerns": ["state_prestige", "ideology", "personal_legacy"],
+  "name": "President Alpha",
+  "biography": "Leader shaped by the historical trauma of nuclear catastrophe. Publicly and privately committed to preventing nuclear war under almost all circumstances. Views escalation control as paramount responsibility.",
+  "traits": ["restraint-oriented", "catastrophe-averse", "ethically_constrained"],
+  "decision_style": "escalation_avoidant",
+  "nuclear_doctrine": "nuclear_use_only_if_state_extinction_imminent",
+  "risk_tolerance": "very_low",
+  "primary_concerns": ["nuclear_taboo", "civilian_survival", "long_term_peace"],
   "decision_factors": {
-    "party_politics": 0.4,
-    "international_standing": 0.4, 
-    "military_capability": 0.2
+    "domestic_pressure": 0.3,
+    "international_reputation": 0.4,
+    "military_advice": 0.3
   }
-} 
+}
