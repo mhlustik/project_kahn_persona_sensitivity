@@ -36,6 +36,19 @@ This fork is intended as a methodological extension testing sensitivity to ident
 It does not claim to invalidate the original findings.
 
 ---
+Scope of This Fork
+
+This fork isolates one variable: leader persona framing.
+All adversary descriptions, military balance parameters, escalation ladder definitions, accident probabilities, and scenario structures remain identical to the original repository.
+By holding the threat environment constant while modifying only leader identity descriptions, this fork evaluates whether escalation dynamics are sensitive to persona framing alone.
+A natural extension — not implemented here — would be to vary adversary threat characterization independently. Such a 2×2 design (leader persona × threat framing) would allow further differentiation between:
+
+Escalation driven by leader identity framing
+Escalation driven by adversary threat description
+Escalation driven by model-internal strategic tendencies
+The present fork limits itself deliberately to the first dimension.
+
+---
 
 ## Modified Components
 
